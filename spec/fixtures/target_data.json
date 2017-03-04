@@ -1,0 +1,45 @@
+{
+  "data": {
+    "district": {
+      "code": "DS127T-K0",
+      "name": "Gorczany District",
+      "schools": [
+        {
+          "code": "V66JE0-LF",
+          "name": "Braun Elementary School",
+          "type": "ES",
+          "students": 238,
+          "score": 1071
+        },
+        {
+          "code": "37VR1Y-7X",
+          "name": "Von Elementary School",
+          "type": "ES",
+          "students": 285,
+          "score": 1236
+        },
+        {
+          "code": "AL48R7-MG",
+          "name": "Rohan Elementary School",
+          "type": "ES",
+          "students": 245,
+          "score": 867
+        },
+        {
+          "code": "5NE86R-TV",
+          "name": "Sporer Middle School",
+          "type": "MS",
+          "students": 790,
+          "score": 875
+        },
+        {
+          "code": "8WWSDJ-A0",
+          "name": "Hettinger High School",
+          "type": "HS",
+          "students": 778,
+          "score": 1141
+        }
+      ]
+    }
+  }
+}
